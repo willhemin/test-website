@@ -1,0 +1,45 @@
+.nav-item {
+ display: inline-block;
+ padding: 5px 10px 5px 10px;   
+ background-color: #afbdd1;
+ margin: 0;
+ border: 0;
+ font-family: 'Anton', sans-serif;
+ font-family: 'M PLUS Rounded 1c', sans-serif;
+ font-family: 'Rock 3D', cursive;
+ font-family: 'Varela Round', sans-serif;
+ font-size: 22px;
+ Font-weight: 700;
+}
+.containerLeft {
+   width: 25%;
+   float: left;
+   height: 500px; 
+   padding: 10px;
+   background-color: #e2e2e2;
+   font-family: 'Anton', sans-serif;
+   font-family: 'M PLUS Rounded 1c', sans-serif;
+   font-family: 'Rock 3D', cursive;
+   font-family: 'Varela Round', sans-serif;
+}
+.containerRight {
+    width: 70%;
+    float: left;
+    height: 500px;
+    padding: 10px;
+    background-color: #ee3a17;
+    font-family: 'Anton', sans-serif;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-family: 'Rock 3D', cursive;
+    font-family: 'Varela Round', sans-serif;
+    font-color: #FFFFFF;
+}
+.typography h1 {
+font-family: 'Rock 3D', cursive;
+}
+.typography h2{
+font-family: 'Anton', sans-serif;
+font-family: 'M PLUS Rounded 1c', sans-serif;
+font-family: 'Rock 3D', cursive;
+font-family: 'Varela Round', sans-serif;
+}
